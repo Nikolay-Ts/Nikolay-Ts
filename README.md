@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikolay-Ts)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **Nikolay-Ts/Nikolay-Ts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
