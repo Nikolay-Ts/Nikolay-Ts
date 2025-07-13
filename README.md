@@ -1,6 +1,10 @@
 ## Hi there 👋
 
+I am currently studying in computer science at Constructor Univeristy. 
 
+I am also currently emplyed at Deutch Zentrum für Luft und Raumfahrt (DLR) as a software engineer.
+
+the project I am currently working on is ReciMe
 
 <!--
 **Nikolay-Ts/Nikolay-Ts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
