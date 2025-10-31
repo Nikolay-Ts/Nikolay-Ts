@@ -4,7 +4,7 @@ I am currently studying computer science at Constructor Univeristy.
 
 I am also currently employed at Deutch Zentrum für Luft und Raumfahrt (DLR) as a software engineer.
 
-the project I am currently working on is ReciMe
+the project I am currently working on is is PyFi, a python library for basic finanical computation, written in C++
 
 <!--
 **Nikolay-Ts/Nikolay-Ts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
