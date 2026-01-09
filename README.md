@@ -18,6 +18,7 @@
   - Systems programming and performance
   - Distributed systems
   - Concurrent programming
+  - Software Verification & Correctness 
   - Developer experience (CLIs, utilities, small tools)
   - Mobile apps
 
@@ -27,13 +28,12 @@
 
 **Mostly using**
 
-- C++ >= 17 · C · Kotlin · TypeScript · Python · Rust
+- C++ >= 17 · C · Kotlin · Python · Rust
 
 **Have also worked with**
 
 - Swift (iOS)
 - PHP
-- Shell scripting
 
 ---
 
