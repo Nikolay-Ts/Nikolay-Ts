@@ -3,8 +3,8 @@
 <h1 align="center">Hi, I'm Nik</h1>
 
 <p align="center">
-  Software Engineer @ <a href="https://www.dlr.de/">DLR</a> · CS Student @ <a href="https://constructor.university/">Constructor University</a><br/>
-  they call me the <b>git-meister</b>
+  Software Engineer @ <a href="https://www.dlr.de/">DLR</a> · CS Student @ <a href="https://constructor.university/">Constructor University</a><br/>· Researcher @ <a href="https://www.mevis.fraunhofer.de">MEVIS Fraunhofer</a>
+  they call me the <b>git-meister</b> 
 </p>
 
 ---
@@ -13,6 +13,7 @@
 
 - Studying Computer Science at Constructor University (Bremen)
 - Working as a software engineer at DLR (German Aerospace Center)
+- Researching Mechanistic Interpretability in the context of medical imaging deep learning models at MEVIS
 - Currently workign on  <a href="https://github.com/Nikolay-Ts/OML">Object Markup Language</a> – A markup language that allows users to write a class once and convert it to other programming languages seamlessly  
 - Interested in:
   - Systems programming and performance
