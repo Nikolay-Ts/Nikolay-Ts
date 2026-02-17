@@ -4,7 +4,11 @@
 
 <p align="center">
   Software Engineer @ <a href="https://www.dlr.de/">DLR</a> · CS Student @ <a href="https://constructor.university/">Constructor University</a><br/>· Researcher @ <a href="https://www.mevis.fraunhofer.de">MEVIS Fraunhofer</a>
-  they call me the <b>git-meister</b> 
+  
+</p>
+
+<p align="center">
+  They call me the <b>git-meister</b> 
 </p>
 
 ---
@@ -21,7 +25,7 @@
   - Concurrent programming
   - Software Verification & Correctness 
   - Developer experience (CLIs, utilities, small tools)
-  - Mobile apps
+  - A bit of Mobile apps
 
 ---
 
