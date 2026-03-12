@@ -18,7 +18,7 @@
 - Studying Computer Science at Constructor University (Bremen)
 - Working as a software engineer at DLR (German Aerospace Center)
 - Researching Mechanistic Interpretability in the context of medical imaging deep learning models at MEVIS
-- Currently workign on  <a href="https://github.com/Nikolay-Ts/OML">Object Markup Language</a> – A markup language that allows users to write a class once and convert it to other programming languages seamlessly  
+- Currently workign on  Tily - a macOS native app to help people better manage their studying
 - Interested in:
   - Systems programming and performance
   - Distributed systems
