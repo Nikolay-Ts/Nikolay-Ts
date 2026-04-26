@@ -18,7 +18,7 @@
 - Studying Computer Science at Constructor University (Bremen)
 - Working as a software engineer at DLR (German Aerospace Center)
 - Researching Mechanistic Interpretability in the context of medical imaging deep learning models at MEVIS
-- Currently workign on  Tily - a macOS native app to help people better manage their studying
+- Currently workign on  LeTex
 - Interested in:
   - Systems programming and performance
   - Distributed systems
