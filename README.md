@@ -3,8 +3,7 @@
 <h1 align="center">Hi, I'm Nik</h1>
 
 <p align="center">
-  Software Engineer @ <a href="https://www.dlr.de/">DLR</a> · CS Student @ <a href="https://constructor.university/">Constructor University</a><br/>· Researcher @ <a href="https://www.mevis.fraunhofer.de">MEVIS Fraunhofer</a>
-  
+  CS Student @ <a href=https://www.ip-paris.fr/">Institut Polytechnique de Paris</a><br/>· Researcher @ <a href="https://www.mevis.fraunhofer.de">MEVIS Fraunhofer</a>
 </p>
 
 <p align="center">
@@ -15,8 +14,7 @@
 
 ## About me
 
-- Studying Computer Science at Constructor University (Bremen)
-- Working as a software engineer at DLR (German Aerospace Center)
+- Studying parallel and dsitributed systems at l'Institut Polytechnique de Paris
 - Researching Mechanistic Interpretability in the context of medical imaging deep learning models at MEVIS
 - Currently workign on  LeTex
 - Interested in:
