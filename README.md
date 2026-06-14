@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Nik</h1>
 
 <p align="center">
-  CS Student @ <a href=https://www.ip-paris.fr/">Institut Polytechnique de Paris</a><br/>· Researcher @ <a href="https://www.mevis.fraunhofer.de">MEVIS Fraunhofer</a>
+  Distributed and Parallel Systems Student @ <a href=https://www.ip-paris.fr/">Institut Polytechnique de Paris</a><br/>· Researcher @ <a href="https://www.mevis.fraunhofer.de">MEVIS Fraunhofer</a>
 </p>
 
 <p align="center">
